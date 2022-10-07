@@ -1,0 +1,76 @@
+/**
+ * @name MineMacImproved
+ * @author Ethan.#5012
+ * @version 1.0.1
+ * @description Minecraft Theme with a MacFeel
+ * @source https://github.com/maenDisease/BetterDiscordStuff/tree/main/Themes/Solana
+ * @invite https://discord.gg/JqaPpE3pgK
+ * @website https://discord.gg/JqaPpE3pgK
+ * @authorId 962763148237107260
+*/
+
+@import url('https://fonts.googleapis.com/css2?family="":wght@100;300;400;500;700&display=swap');
+@import url('https://maendisease.github.io/BetterDiscordStuff/css/bdAddonMini.css');
+@import url('https://maendisease.github.io/BetterDiscordStuff/css/bearableInbox.css');
+@import url('https://maendisease.github.io/BetterDiscordStuff/css/bettterInvites.css');
+@import url('https://maendisease.github.io/BetterDiscordStuff/css/ChannelDms.css');
+@import url('https://maendisease.github.io/BetterDiscordStuff/css/wellThisIsAwkwardSoTryThis.css');
+@import url('https://maendisease.github.io/BetterDiscordStuff/Themes/Solana/Solana.css');
+@import url('https://maendisease.github.io/BetterDiscordStuff/Themes/Solana/addon/mac-titlebar.css');
+@import url('https://mwittrien.github.io/BetterDiscordAddons/Themes/EmojiReplace/base/Apple.css');
+
+:root {
+  --accent-hue: 213;
+  --accent-saturation: 100%;
+  --accent-brightness: 50%;
+  --background-accent-hue: 213;
+  --background-accent-saturation: 100%;
+  --background-accent-brightness: 50%;
+  --background-image: url('https://i.imgur.com/Q89DQJO.jpg'); /* url(https://site.com/foobar.png) | URL MUST BE A DIRECT LINK (ending in .jpg, .jpeg, .png, .gif) */
+  --background-image-position: center;
+  --background-image-size: cover;
+  --background-image-blur: 1px;
+  --background-overlay-opacity: 53%;
+  --background-overlay-color-lightness: 0;
+  --background-hue-shift-strength: 100%;
+  --window-background-image: url('https://i.imgur.com/tCi0KPm.jpg');
+  --window-background-image-position: center;
+  --window-background-image-size: cover;
+  --window-background-image-attachment: fixed;
+  --window-opacity: 61%;
+  --window-blur: 13;
+  --window-friends-blur: 3;
+  --window-margin: 10;
+  --window-margin-left: 0;
+  --window-border-radius: 25px;
+  --window-background-lightness: 0;
+  --window-accent-tint-strength: 0%;
+  --chat-bubble: 0;
+  --text-link-hue: 230;
+  --chat-text-brightness: 0;
+  --home-icon: initial;
+  --favorites-icon: initial;
+  --dock-blur: 15; /* Blur intensity of the dock. */
+  --dock-border-radius: 1;
+  --guildlist-show: 1;
+  --guildlist-peek-unread: 1;
+  --guildlist-peek-ping: 1;
+  --guildlist-peek-selected: 1;
+  --guildlist-peek-group-unread: 1;
+  --sidebar-width: 242px;
+  --members-width: 141px;
+  --sidebar-text-brightness: 0.96;
+  --background-floating-blur: 20px;
+  --floating-background-lightness: 0;
+  --background-floating-opacity: 1;
+  --enable-floating-transparency: 1;
+  --custom-font-display: url('<link rel="preconnect" href="https://fonts.googleapis.com"> <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin> <link href="https://fonts.googleapis.com/css2?family=Passion+One&display=swap" rel="stylesheet">');
+  --custom-font-regular: url('<link rel="preconnect" href="https://fonts.googleapis.com"> <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin> <link href="https://fonts.googleapis.com/css2?family=Passion+One&display=swap" rel="stylesheet">');
+  --custom-font-primary: "";
+  --custom-font-code: url('<link rel="preconnect" href="https://fonts.googleapis.com"> <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin> <link href="https://fonts.googleapis.com/css2?family=Passion+One&display=swap" rel="stylesheet">');
+  --enable-blur: 1;
+}
+
+/* Any custom CSS below here */
+
+
